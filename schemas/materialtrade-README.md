@@ -33,8 +33,7 @@ You **MUST** remove the following key/value pairs from the data:
 
 ### Rate Limiting
 Since these values can occur multiple times in a short timespan, senders
-*must* take care to only send them once at most per event type while
-docked at a station.
+*must* take care to only send them once at most while docked at a station.
 
 ### Augmentations
 #### horizons and odyssey flags
